@@ -1,3 +1,12 @@
+# Modern UI-UX website from React.js 
+
+**See the website in action(Live demo: https://gpt-3-megu-community.netlify.app/ )**
+
+This is the code base for the figma design https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3.
+
+The website is fully mobile responsive. Do check the demo out. If you find the repo worth it. Feel free to give it a star⭐⭐
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
